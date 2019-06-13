@@ -1,0 +1,22 @@
+Gawader	Hoshab
+Hoshab	Panjgur
+Panjgur	Nag
+Nag	Basima
+Basima	Surab
+Surab	Kalat
+Kalat	Mastung
+Mastung	Lakpass
+Lakpass	Quetta
+Quetta	Qilla Saifullah
+Qilla Saifullah	Zhob
+Zhob	DI Khan
+DI Khan	Burhan
+Burhan	Haripur
+Haripur	Abbottabad
+Abbottabad	Mansehra
+Mansehra	Shinkiari
+Shinkiari	Thakot
+Thakot	Sazin
+Sazin	Raikot
+Raikot	Gilgit
+Gilgit	Khunjerab
